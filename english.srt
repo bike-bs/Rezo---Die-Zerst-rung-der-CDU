@@ -12,7 +12,7 @@ also a bit on SPD and AFD
 
 4
 00:00:06,350 --> 00:00:08,350
-but primarily we look at the CDU
+but primarily we look at the CDU.
 
 5
 00:00:08,350 --> 00:00:11,650
@@ -400,7 +400,7 @@ is in Germany much lower than in most other industrial countries.
 
 101
 00:04:05,800 --> 00:04:08,100
-In the PISA study, we lost in categories like 
+In the PISA study, we lost in categories like
 
 102
 00:04:08,100 --> 00:04:10,650
@@ -516,7 +516,7 @@ Education doesn't have a high priority for them.
 
 130
 00:05:17,600 --> 00:05:21,200
-That's also not a rating, but a sober conclusion of the data. 
+That's also not a rating, but a sober conclusion of the data.
 
 131
 00:05:21,200 --> 00:05:24,800
@@ -584,11 +584,11 @@ Yes, a few weeks ago, I have thought so, too.
 
 147
 00:06:01,750 --> 00:06:04,150
-The majority of experts and scientists 
+The majority of experts and scientists
 
 148
 00:06:04,150 --> 00:06:07,300
-are sharing this exact opinion and can proof this pretty good. 
+are sharing this exact opinion and can proof this pretty good.
 
 149
 00:06:07,300 --> 00:06:11,100
@@ -621,4 +621,148 @@ That means: The last four years
 156
 00:06:28,300 --> 00:06:30,600
 were the four warmest years in history. lol.
+
+157
+00:06:30,600 --> 00:06:32,700
+The consequences are quite clear.
+
+158
+00:06:32,700 --> 00:06:34,800
+Due to global warming natural disasters are on the rise,
+
+159
+00:06:34,800 --> 00:06:36,800
+their consequences and dimensions are on the rise.
+
+160
+00:06:36,800 --> 00:06:40,100
+This costs currently directly hundreds of billions per year.
+
+161
+00:06:40,100 --> 00:06:42,000
+Whole regions are sunk already.
+
+162
+00:06:42,000 --> 00:06:44,000
+Because of this, there are lots of millions of refugees,
+
+163
+00:06:44,000 --> 00:06:46,800
+who have lost their home and have to be accommodated anywhere else.
+
+164
+00:06:46,800 --> 00:06:48,600
+A few weeks age, Ju was in Bangladesh
+
+165
+00:06:48,600 --> 00:06:49,900
+and spoke with such people.
+
+166
+00:06:49,900 --> 00:06:51,400
+That was part of his video.
+
+167
+00:06:51,400 --> 00:06:54,700
+Furthermore species are becoming extinct hundred times faster.
+
+168
+00:06:54,700 --> 00:06:57,200
+We lose complete habitats, like coral reefs.
+
+169
+00:06:57,200 --> 00:07:01,000
+Biologists are saying, that a new mass extinction is probable.
+
+170
+00:07:01,000 --> 00:07:04,800
+The last one was 66 million years ago.
+
+171
+00:07:04,800 --> 00:07:09,800
+Then an asteroid with the size of a large city crashed on earth.
+
+172
+00:07:09,800 --> 00:07:11,800
+Today we are able to do it alone.
+
+173
+00:07:11,800 --> 00:07:13,800
+That all happened,
+
+174
+00:07:13,800 --> 00:07:16,300
+because it got in average one degree warmer.
+
+175
+00:07:16,300 --> 00:07:19,200
+That would remain so for hundreds or thousands of years,
+
+176
+00:07:19,200 --> 00:07:22,500
+even if humanity would stop burning fuel and coal tomorrow.
+
+177
+00:07:22,500 --> 00:07:26,500
+And who is thinking: Do one or two degrees  make such a huge difference?
+
+178
+00:07:26,500 --> 00:07:28,500
+I can say them: Yes, they do.
+
+179
+00:07:28,500 --> 00:07:30,100
+Or in different words:
+
+180
+00:07:30,100 --> 00:07:34,100
+Many are thinking: one degree, two degree, three degree - What's the difference?
+
+181
+00:07:34,100 --> 00:07:39,100
+As physician I can say you: It's making a huge difference, if you have 41 degree fever or 43 degree fever.
+
+182
+00:07:39,100 --> 00:07:41,600
+The first one is compatible with life, the second one not.
+
+183
+00:07:41,600 --> 00:07:43,200
+OK, that' the current status.
+
+184
+00:07:43,200 --> 00:07:45,200
+But, who is to blame for that?
+
+185
+00:07:45,200 --> 00:07:47,600
+* Who is to blame? *
+
+186
+00:07:47,600 --> 00:07:50,500
+I'm not going into physical details.
+
+187
+00:07:50,500 --> 00:07:54,000
+Primarily this is happening through CO2 and methane. * Share of different gases on global warming - <font color="#179ad2">CO2</font>, <font color="#be085c">methane</font>, <font color="#0b8729">other</font> *
+
+188
+00:07:54,000 --> 00:07:56,300
+The more of this gases is in atmosphere, the warmer it's going to be.
+
+189
+00:07:56,300 --> 00:07:59,500
+Methane is produced primarily by industrial animal husbandry .
+
+190
+00:07:59,500 --> 00:08:01,800
+Due to the lack of time, I won't talking about methane,
+
+191
+00:08:01,800 --> 00:08:05,400
+because CO2 is the largest factor for global warming.
+
+192
+00:08:05,400 --> 00:08:07,100
+Because of that I'm explaining primarily that.
 
