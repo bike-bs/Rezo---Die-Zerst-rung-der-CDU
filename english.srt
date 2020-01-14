@@ -912,7 +912,7 @@ but normally no serious scientist will do that.
 
 229
 00:09:49,400 --> 00:09:56,500
-And that's in line with the numbers: Only 0.7% of the scientific publications claimed, that mankind isn't to blame for.  * "[...] 0.7 % denied the human caused climate change and 0.3% weren't sure, what's the reason for global warming." *
+And that's in line with the numbers: Only 0.7% of the scientific publications claimed, that mankind isn't to blame for.  * "[...  ]0.7% rejected anthropogenic global warming and 0.3% were uncertain about the cause of global warming. *
 
 230
 00:09:56,500 --> 00:09:58,100
@@ -1248,7 +1248,7 @@ The calculations primarily differ in the costs.
 
 313
 00:14:48,800 --> 00:14:52,500
-According to one group that will be as expensive as the present energy supply. * "The burden for wind/water/solar in the health ans climate sector is 1/4 of the present tack. The energy costs for wind/water/solar are lower or same" *
+According to one group that will be as expensive as the present energy supply. * "The costs for wind/water/solar in the health and climate sector is 1/4 of Business-As-Usual. The energy costs for wind/water/solar are lower or same" *
 
 314
 00:14:52,500 --> 00:14:53,900
@@ -1280,7 +1280,7 @@ And if I say end, I mean end. So that's it.
 
 321
 00:15:21,600 --> 00:15:25,300
-That was very helpful for mankind for a while and that's it. * "Successful [...] scenarios are characterized by a rapid change away from the traditional usage of fossil fuels" *
+That was very helpful for mankind for a while and that's it. * "Successful [...] scenarios are characterized by a rapid shift away from traditional fossil-fuel use" *
 
 322
 00:15:25,300 --> 00:15:26,800
@@ -1628,7 +1628,7 @@ That would be nice.
 
 408
 00:21:00,300 --> 00:21:05,200
-Oops. So it was not only spend less money for urgently needed technologies, * "The [...] goverment subsidies for lignite mining and usage sum up to round about 4.5 billion Euro per year." *
+Oops. So it was not only spend less money for urgently needed technologies, * "The [...] public support for lignite mining and lignite use amounts to a total volume of about 4.5 billion Euro/year" *
 
 409
 00:21:05,200 --> 00:21:13,100
@@ -1676,7 +1676,7 @@ To be brief: The consensus of all current scientific investigations - that are t
 
 420
 00:21:51,400 --> 00:21:55,200
-According to this we fuck up hardly and will reach round about 3°C. * "Scenarios which simulate the national efforts until 2030 are resulting in a global warming of round about 3°C with  additional subsequent warming." *
+According to this we fuck up hardly and will reach round about 3°C. * "Pathways  reflecting  current  nationally  stated  mitigation  ambition  until  2030  are  broadly  consistent  with cost-effective pathways that result in a global warming of about 3°C by 2100, with warming continuing afterwards." *
 
 421
 00:21:55,200 --> 00:21:58,400
@@ -1816,11 +1816,11 @@ I even didn't know that we have so many scientists.
 
 455
 00:24:14,200 --> 00:24:19,600
-And they all say that the current tack of SPD and CDU is much too slow. * The current efforts are far from being enough. *
+And they all say that the current tack of SPD and CDU is much too slow. * The current measures [...] are far from sufficient. *
 
 456
 00:24:19,600 --> 00:24:28,200
-And if we don't change this stark, not only a bit, but stark, than the future of the young generation and all future generations is fucked up. * Without profound and consequent changes is their future at danger.  - Over 26,000 German-speaking scientists *
+And if we don't change this stark, not only a bit, but stark, than the future of the young generation and all future generations is fucked up. * "Without far-reaching and consistent change, their future is in danger."  - Over 26,000 German-speaking scientists *
 
 457
 00:24:28,200 --> 00:24:33,400
@@ -1832,15 +1832,15 @@ The professionals, the experts all agree that the tack of SPD and CDU is not a m
 
 459
 00:24:41,600 --> 00:24:45,300
-This isn't about somebody has a different political view from mine. * "There is an urgent need for a new approach which sustains the system of our earth." *
+This isn't about somebody has a different political view from mine. * "There is an urgent need for a new paradigm that integrates the continued development of human societies and the maintenance of the Earth system (ES) in a resilient and accommodating state." *
 
 460
 00:24:45,300 --> 00:24:50,900
-No. This is about this both parties ignoring extremely good proven scientific knowledge. * "If we maintain the current tack of yearly emissions, we must abruptly drastically decrease our emissions to 0 if the CO2 budget will be depleted [in 8 years]." *
+No. This is about this both parties ignoring extremely good proven scientific knowledge. * "If the current rate of annual emissions stays at this level, we would have to drop them almost immediately to zero once we exhaust the budget[in 8 years]." *
 
 461
 00:24:50,900 --> 00:24:59,600
-Ignoring urgent warnings of thousands of experts and in return doing a future and environment destroying politic which holds life in contempt. * "Until now a transformation [...] has only a very limited took part. Further basic changes are necessary." *
+Ignoring urgent warnings of thousands of experts and in return doing a future and environment destroying politic which holds life in contempt. * "To date, the impact on transforming [...] has been too limited. Further substantial change is needed." *
 
 462
 00:24:59,600 --> 00:25:04,400
@@ -1848,7 +1848,7 @@ Against the health of the population, against our life, and for the benefit of a
 
 463
 00:25:04,400 --> 00:25:07,800
-During my investigations I looked through hundreds of scientific investigations. * "The train to an CO2-free future for Germany derailed."- Prof. Kemfert,  Professor of  Energy Economics *
+During my investigations I looked through hundreds of scientific investigations. * "Germany's train to a carbon-free future has been derailed."- Prof. Kemfert,  Professor of  Energy Economics *
 
 464
 00:25:07,800 --> 00:25:13,400
